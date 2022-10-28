@@ -1,7 +1,7 @@
 # 소개
 ## [깡통]에서 세미나로 진행한 첫 번째 원서입니다.
-## 학습 시 사용했던 파일은 위와 같으며, 버전 오류 발생 시 수정하여 재업로드 하겠습니다.
-## 모든 저작권은 원작자에게 있습니다.
+- 학습 시 사용했던 파일은 위와 같으며, 버전 오류 발생 시 수정하여 재업로드 하겠습니다.
+- 모든 저작권은 원작자에게 있습니다.
 
 # Deep Learning with TensorFlow 2 and Keras - 2nd Edition
 This is the code repository for [Deep Learning with TensorFlow 2 and Keras - 2nd Edition](https://www.packtpub.com/data/deep-learning-with-tensorflow-2-0-and-keras-second-edition), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
